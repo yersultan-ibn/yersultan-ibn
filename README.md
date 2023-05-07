@@ -1,1 +1,4 @@
-# yersultan-sansyzbay
+- 🌱 I’m currently learning React, Redux, Next
+- 🦾 My technology stack: TypeScript, JavaScript, React / React Router, React Form, Redux / Redux Toolkit, RTK Query, Storybook, Swagger / Postman / React Testing Library, HTML, CSS, SASS / SCSS / LESS, Bootstrap / Tailwind, Webpack / Gulp, BEM, Git, Figma, ...
+- 😎 My [LinkedIn](https://www.linkedin.com/in/yersultan-sansyzbay-6b0434204/) 
+- 📄 Check out my [resume](https://drive.google.com/file/d/1mpT5NDpjOFhHK0FjtTOl6rQ1_77DlQ-B/view?usp=share_link)
